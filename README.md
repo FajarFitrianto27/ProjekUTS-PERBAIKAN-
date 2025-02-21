@@ -22,11 +22,7 @@
 
 ---
 
-## **🛠 Teknologi yang Digunakan**  
-- **Java** (JDK 8 / 11 / 17)  
-- **NetBeans IDE**  
-- **Java Swing** untuk tampilan GUI  
-- **JTable & FileWriter** untuk pengelolaan data  
+
 
 ---
 
