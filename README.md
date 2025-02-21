@@ -4,10 +4,6 @@
 
 ---
 
-# **📌 Projek UTS - Catatan Harian**  
-📝 **Aplikasi Catatan Harian** adalah aplikasi sederhana berbasis **Java Swing** yang dibuat menggunakan **NetBeans**. Aplikasi ini memungkinkan pengguna untuk **menulis, menyimpan, mengedit, menghapus, menyimpan ke file, dan mencetak catatan harian**.  
-
----
 
 
 
